@@ -1,0 +1,14 @@
+name: virus_infection_git
+title: Virus Infection Git
+username: HVY4
+account: HVY4
+server: rconnect.edav.cdc.gov
+hostUrl: https://rconnect.edav.cdc.gov/__api__
+appId: 483
+bundleId: 48102
+url: https://rconnect.edav.cdc.gov/content/2792d8a3-71d5-4e15-8e04-f985e334fa3e/
+when: 1666983582.7114
+lastSyncTime: 1666983582.71141
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: VirusIfectionIcon.png
